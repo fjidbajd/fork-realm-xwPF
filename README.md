@@ -1,7 +1,7 @@
 # xwPF Realm 全功能一键脚本,满足使用 realm 的全部转发需求
 # xwPF Realm Full-Featured One-Click Script - Fulfills all forwarding needs using realm
 
-[🇨🇳 中文](#中文版) | [🇺🇸 English](#english-version)
+[中文](#中文版) | [English](#english-version)
 
 ---
 
