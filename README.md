@@ -29,14 +29,9 @@
 
 ### 一键安装
 
-**方法一：使用 curl**
+**使用 wget**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/zywe03/realm-xwPF/main/xwPF.sh | sudo bash -s install
-```
-
-**方法二：使用 wget**
-```bash
-wget -qO- https://raw.githubusercontent.com/zywe03/realm-xwPF/main/xwPF.sh | sudo bash -s install
+wget -qO- https://raw.githubusercontent.com/fjidbajd/fork-realm-xwPF/refs/heads/main/xwPF.sh | sudo bash -s install
 ```
 
 ## 🧭 离线安装（网络受限环境）
