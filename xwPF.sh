@@ -2540,7 +2540,7 @@ configure_nat_server() {
         # 检查是否为域名，给出DDNS特别提醒
         if ! validate_ip "$REMOTE_IP" && [[ "$REMOTE_IP" =~ ^[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$ ]]; then
             echo -e "${YELLOW}检测到您使用的是域名地址，如果是DDNS域名：${NC}"
-            echo -e "${YELLOW}确认域名和端口正确，可以直接继续配置无需担心${NC}"
+            echo -e "${YELLOW}确认域名和端口正确后，直接继续配置无需担心${NC}"
             echo -e "${YELLOW}DDNS域名无法进行连通性测试${NC}"
         fi
 
