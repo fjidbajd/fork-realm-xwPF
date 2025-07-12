@@ -1,5 +1,5 @@
-# xwPF Realm 全功能一键脚本,满足使用 realm 的全部转发需求
-# xwPF Realm Full-Featured One-Click Script - Fulfills all forwarding needs using realm
+# xwPF Realm 全功能一键脚本,快速配置使用 realm 的网络转发需求
+# xwPF Realm full-featured one-click script to quickly configure network relay requirements using realm.
 
 [中文](#中文版) | [English](#english-version)
 
@@ -7,7 +7,7 @@
 
 ## 中文版
 
-> 🚀 **Realm 端口转发智能管理脚本** - 原生 realm 全部功能 + 轻量化实现故障转移，保持极简本质,一键指令操作释放双手
+> 🚀 **Realm 端口转发智能管理脚本** - 原生 realm 全部功能 + 轻量化实现故障转移，保持极简本质,数字化操作界面一键指令操作,提高效率
 
 ## 📸 界面预览
 
@@ -249,7 +249,7 @@ IP哈希 (iphash)
 
 ## English Version
 
-> 🚀 **Realm Port Forwarding Intelligent Management Script** - Full native realm functionality + lightweight failover implementation, maintaining minimalist essence with one-click operations to free your hands
+> 🚀 **Realm Port Forwarding Intelligent Management Script** - Native realm full functionality + lightweight implementation of failover, to maintain the essence of the minimalist, digital interface, one-click command operation, improve efficiency.
 
 ## 📸 Interface Preview
 
