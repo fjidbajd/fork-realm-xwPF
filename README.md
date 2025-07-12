@@ -245,9 +245,8 @@ IP哈希 (iphash)
 
 **⭐ 如果这个项目对您有帮助，请给个 Star 支持一下！**
 
-[![GitHub stars](https://img.shields.io/github/stars/zywe03/realm-xwPF?style=social)](https://github.com/zywe03/realm-xwPF/stargazers)
 
-</div>
+[![Star History Chart](https://api.star-history.com/svg?repos=zywe03/realm-xwPF&type=Date)](https://www.star-history.com/#zywe03/realm-xwPF&Date)
 
 ---
 
@@ -479,6 +478,4 @@ File organization structure after installation:
 
 **⭐ If this project helps you, please give it a Star for support!**
 
-[![GitHub stars](https://img.shields.io/github/stars/zywe03/realm-xwPF?style=social)](https://github.com/zywe03/realm-xwPF/stargazers)
-
-</div>
+[![Star History Chart](https://api.star-history.com/svg?repos=zywe03/realm-xwPF&type=Date)](https://www.star-history.com/#zywe03/realm-xwPF&Date)
