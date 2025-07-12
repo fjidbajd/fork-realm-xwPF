@@ -4360,12 +4360,7 @@ smart_install() {
     # 步骤4: 下载最新的 realm 主程序
     install_realm
 
-    echo -e "${GREEN}=== 基础安装完成！ ===${NC}"
-    echo -e "${YELLOW}现在您可以在主菜单中进行配置...${NC}"
-    echo ""
-
-    # 安装完成后直接进入主菜单
-    show_menu
+    echo -e "${YELLOW}输入快捷命令 ${GREEN}pf${YELLOW} 进入脚本交互界面${NC}"
 }
 
 # 服务管理 - 启动
