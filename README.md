@@ -254,7 +254,7 @@ IP哈希 (iphash)
 
 **⭐ 如果这个项目对您有帮助，请给个 Star 支持一下！**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zywe03/realm-xwPF&type=Date)](https://www.star-history.com/#zywe03/realm-xwPF&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=zywe03/realm-xwPF&type=Timeline)](https://www.star-history.com/#zywe03/realm-xwPF&Timeline)
 
 ---
 
@@ -487,4 +487,4 @@ File organization structure after installation:
 
 **⭐ If this project helps you, please give it a Star for support!**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zywe03/realm-xwPF&type=Date)](https://www.star-history.com/#zywe03/realm-xwPF&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=zywe03/realm-xwPF&type=Timeline)](https://www.star-history.com/#zywe03/realm-xwPF&Timeline)
