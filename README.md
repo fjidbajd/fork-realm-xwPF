@@ -230,7 +230,7 @@ IP哈希 (iphash)
 
 ## 🤝 技术支持
 
-- **项目主页：** [https://github.com/zywe03/realm-xwPF](https://github.com/zywe03/realm-xwPF)
+- **其他开源项目：** [https://github.com/zywe03](https://github.com/zywe03)
 - **作者主页：** [https://zywe.de](https://zywe.de)
 - **问题反馈：** [GitHub Issues](https://github.com/zywe03/realm-xwPF/issues)
 
@@ -463,7 +463,8 @@ File organization structure after installation:
 
 ## 🤝 Technical Support
 
-- **Project Homepage:** [https://github.com/zywe03/realm-xwPF](https://github.com/zywe03/realm-xwPF)
+- **Other open source projects:** [https://github.com/zywe03](https://github.com/zywe03)
+
 - **Author Homepage:** [https://zywe.de](https://zywe.de)
 - **Issue Feedback:** [GitHub Issues](https://github.com/zywe03/realm-xwPF/issues)
 
