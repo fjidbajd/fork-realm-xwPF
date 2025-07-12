@@ -42,7 +42,7 @@ curl -fsSL https://raw.githubusercontent.com/zywe03/realm-xwPF/main/xwPF.sh | su
 wget -qO- https://raw.githubusercontent.com/zywe03/realm-xwPF/main/xwPF.sh | sudo bash -s install
 ```
 
-### 离线安装（网络受限环境）
+## 🧭 离线安装（网络受限环境）
 
 <details>
 <summary>点击展开离线安装方法</summary>
@@ -52,7 +52,7 @@ wget -qO- https://raw.githubusercontent.com/zywe03/realm-xwPF/main/xwPF.sh | sud
 **下载必要文件**
 
 在有网络的设备上下载以下文件：
-- **脚本文件下载**：[xwPF.sh](https://raw.githubusercontent.com/zywe03/realm-xwPF/main/xwPF.sh)
+- **脚本文件下载**：[xwPF.sh](https://github.com/zywe03/realm-xwPF/raw/main/xwPF.sh) (右键点击 → 另存为)
 - **Realm 程序下载**（根据系统架构选择）：
 
 | 架构 | 适用系统 | 下载链接 | 检测命令 |
@@ -284,7 +284,7 @@ curl -fsSL https://raw.githubusercontent.com/zywe03/realm-xwPF/main/xwPF.sh | su
 wget -qO- https://raw.githubusercontent.com/zywe03/realm-xwPF/main/xwPF.sh | sudo bash -s install
 ```
 
-### Offline Installation (Network-Restricted Environments)
+## 🧭  Offline Installation (Network-Restricted Environments)
 
 <details>
 <summary>Click to expand offline installation methods</summary>
@@ -294,7 +294,7 @@ Suitable for server environments that cannot directly access GitHub:
 **Download Required Files**
 
 Download the following files on a device with network access:
-- **Script File Download**: [xwPF.sh](https://raw.githubusercontent.com/zywe03/realm-xwPF/main/xwPF.sh)
+- **Script File Download**: [xwPF.sh](https://github.com/zywe03/realm-xwPF/raw/main/xwPF.sh) (Right-click → Save as)
 - **Realm Program Download** (choose according to system architecture):
 
 | Architecture | Applicable Systems | Download Link | Detection Command |
