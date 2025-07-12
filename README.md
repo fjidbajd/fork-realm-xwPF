@@ -7,7 +7,7 @@
 
 ## 中文版
 
-> 🚀 **Realm 端口转发智能管理工具** - 原生 realm 全部功能 + 轻量化实现故障转移，保持极简本质,一键指令操作释放双手
+> 🚀 **Realm 端口转发智能管理脚本** - 原生 realm 全部功能 + 轻量化实现故障转移，保持极简本质,一键指令操作释放双手
 
 ## 📸 界面预览
 
@@ -252,7 +252,7 @@ IP哈希 (iphash)
 
 ## English Version
 
-> 🚀 **Realm Port Forwarding Intelligent Management Tool** - Full native realm functionality + lightweight failover implementation, maintaining minimalist essence with one-click operations
+> 🚀 **Realm Port Forwarding Intelligent Management Scripts** - Full native realm functionality + lightweight failover implementation, maintaining minimalist essence with one-click operations
 
 ## 📸 Interface Preview
 
