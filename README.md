@@ -241,10 +241,7 @@ IP哈希 (iphash)
 
 ---
 
-<div align="center">
-
 **⭐ 如果这个项目对您有帮助，请给个 Star 支持一下！**
-
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zywe03/realm-xwPF&type=Date)](https://www.star-history.com/#zywe03/realm-xwPF&Date)
 
@@ -252,7 +249,7 @@ IP哈希 (iphash)
 
 ## English Version
 
-> 🚀 **Realm Port Forwarding Intelligent Management Scripts** - Full native realm functionality + lightweight failover implementation, maintaining minimalist essence with one-click operations
+> 🚀 **Realm Port Forwarding Intelligent Management Script** - Full native realm functionality + lightweight failover implementation, maintaining minimalist essence with one-click operations to free your hands
 
 ## 📸 Interface Preview
 
@@ -362,15 +359,18 @@ Therefore, the encryption chosen by the relay server's realm, masquerading domai
 
 Multiple exit servers (rule groups) for the same port forwarding.
 
-**Round Robin**
+**Round Robin (roundrobin)**
+
 Continuously switches between exit servers in the rule group.
 
-**IP Hash**
+**IP Hash (iphash)**
+
 Based on the hash value of the source IP, determines traffic direction, ensuring requests from the same IP always go to the same exit server.
 
 **Weight** represents allocation probability.
 
 **Failover**
+
 When a certain exit is detected as failed, it's temporarily removed from the load balancing list. It will be automatically added back to the load balancing list after recovery.
 
 Native realm does not currently support failover.
@@ -401,7 +401,7 @@ Native realm does not currently support failover.
 </details>
 
 <details>
-<summary><strong>Port Forwarding vs Chain Proxy (Segmented Proxy)</strong></summary>
+<summary><strong>Port Forwarding & Chain Proxy (Segmented Proxy)</strong></summary>
 
 **Simple Understanding**
 
@@ -423,7 +423,7 @@ As you can see, it's divided into two proxy segments, hence also called segmente
 | `curl` | Download and IP retrieval | ✅ |
 | `wget` | Backup download tool | ✅ |
 | `tar` | Compression/decompression tool | ✅ |
-| `systemctl` | Service coordination | ✅ |
+| `systemctl` | Service coordination and management | ✅ |
 | `bc` | Numerical calculations | ✅ |
 | `nc` | Network connection testing | ✅ |
 | `grep`/`cut` | Text processing and recognition | ✅ |
@@ -463,8 +463,7 @@ File organization structure after installation:
 
 ## 🤝 Technical Support
 
-- **Other open source projects:** [https://github.com/zywe03](https://github.com/zywe03)
-
+- **Other Open Source Projects:** [https://github.com/zywe03](https://github.com/zywe03)
 - **Author Homepage:** [https://zywe.de](https://zywe.de)
 - **Issue Feedback:** [GitHub Issues](https://github.com/zywe03/realm-xwPF/issues)
 
@@ -474,8 +473,6 @@ File organization structure after installation:
 - All users who provided feedback and suggestions for the project
 
 ---
-
-<div align="center">
 
 **⭐ If this project helps you, please give it a Star for support!**
 
