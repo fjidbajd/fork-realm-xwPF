@@ -2491,7 +2491,7 @@ configure_nat_server() {
 
     # 配置监听端口
     while true; do
-        read -p "请输入本地监听端口 (客户端连接的端口，NAT VPS需使用商家分配的端口): " NAT_LISTEN_PORT
+        read -p "请输入本地监听端口 (客户端连接的端口，nat机需使用分配的端口): " NAT_LISTEN_PORT
         if validate_port "$NAT_LISTEN_PORT"; then
             echo -e "${GREEN}监听端口设置为: $NAT_LISTEN_PORT${NC}"
             break
